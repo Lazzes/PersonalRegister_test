@@ -3,29 +3,53 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Xml.Linq;
 
 namespace PersonalRegister_test
 {
-    internal class Ovrigaarbetare
+    public class Ovrigaarbetare: Arbetare
     {
-        public String hasSkyddskor()
+        private String name { get; set; }
+        private String enamn { get; set; }
+        private int jobbid { get; set; }
+
+        public Ovrigaarbetare (String namn, String efternamn, int id) : base ( namn, efternamn, id)
         {
-            Console.WriteLine("skor");
-            string x = "test";
-            return x;
-        }
-        public String getArbetare_id()
-        {
-            Console.WriteLine("h21");
-            string x = "test";
-            return x;
+            name = namn;
+            enamn = efternamn;
+            jobbid = id;
+
         }
 
-        public string getName()
+        public String getNamn()
         {
-            Console.WriteLine("oscar");
-            string x = "hjälm";
-            return x;
+            return getNamn ();
         }
+
+        public String getEfternamn()
+        {
+            return getEfternamn();
+        }
+
+        public String getFullnamn()
+        {
+            return getFullnamn();
+        }
+
+        public int getId()
+            {
+                return getId();
+            }
+
+        public String getArbetare()
+            {
+                return getArbetare();
+            }
+
+
+        public String getDescription()
+            {
+                return "Ovriga";
+            }
     }
 }

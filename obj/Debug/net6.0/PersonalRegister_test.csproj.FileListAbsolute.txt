@@ -13,3 +13,18 @@ C:\Users\46722\source\repos\PersonalRegister_test\obj\Debug\net6.0\refint\Person
 C:\Users\46722\source\repos\PersonalRegister_test\obj\Debug\net6.0\PersonalRegister_test.pdb
 C:\Users\46722\source\repos\PersonalRegister_test\obj\Debug\net6.0\PersonalRegister_test.genruntimeconfig.cache
 C:\Users\46722\source\repos\PersonalRegister_test\obj\Debug\net6.0\ref\PersonalRegister_test.dll
+C:\Users\46722\Desktop\Viktiga uppgifter\C-Sharp\PersonalRegister_test\obj\Debug\net6.0\PersonalRegister_test.csproj.AssemblyReference.cache
+C:\Users\46722\Desktop\Viktiga uppgifter\C-Sharp\PersonalRegister_test\obj\Debug\net6.0\PersonalRegister_test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\46722\Desktop\Viktiga uppgifter\C-Sharp\PersonalRegister_test\obj\Debug\net6.0\PersonalRegister_test.AssemblyInfoInputs.cache
+C:\Users\46722\Desktop\Viktiga uppgifter\C-Sharp\PersonalRegister_test\obj\Debug\net6.0\PersonalRegister_test.AssemblyInfo.cs
+C:\Users\46722\Desktop\Viktiga uppgifter\C-Sharp\PersonalRegister_test\obj\Debug\net6.0\PersonalRegister_test.csproj.CoreCompileInputs.cache
+C:\Users\46722\Desktop\Viktiga uppgifter\C-Sharp\PersonalRegister_test\obj\Debug\net6.0\PersonalRegister_test.dll
+C:\Users\46722\Desktop\Viktiga uppgifter\C-Sharp\PersonalRegister_test\obj\Debug\net6.0\refint\PersonalRegister_test.dll
+C:\Users\46722\Desktop\Viktiga uppgifter\C-Sharp\PersonalRegister_test\obj\Debug\net6.0\PersonalRegister_test.pdb
+C:\Users\46722\Desktop\Viktiga uppgifter\C-Sharp\PersonalRegister_test\bin\Debug\net6.0\PersonalRegister_test.exe
+C:\Users\46722\Desktop\Viktiga uppgifter\C-Sharp\PersonalRegister_test\bin\Debug\net6.0\PersonalRegister_test.deps.json
+C:\Users\46722\Desktop\Viktiga uppgifter\C-Sharp\PersonalRegister_test\bin\Debug\net6.0\PersonalRegister_test.runtimeconfig.json
+C:\Users\46722\Desktop\Viktiga uppgifter\C-Sharp\PersonalRegister_test\bin\Debug\net6.0\PersonalRegister_test.dll
+C:\Users\46722\Desktop\Viktiga uppgifter\C-Sharp\PersonalRegister_test\bin\Debug\net6.0\PersonalRegister_test.pdb
+C:\Users\46722\Desktop\Viktiga uppgifter\C-Sharp\PersonalRegister_test\obj\Debug\net6.0\PersonalRegister_test.genruntimeconfig.cache
+C:\Users\46722\Desktop\Viktiga uppgifter\C-Sharp\PersonalRegister_test\obj\Debug\net6.0\ref\PersonalRegister_test.dll

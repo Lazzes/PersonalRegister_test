@@ -6,26 +6,64 @@ using System.Threading.Tasks;
 
 namespace PersonalRegister_test
 {
-    internal class Arbetsmyror
+    public class ArbetsMyror : Arbetare
     {
-        public String getArbetare_id()
+        private String fnamn { get; set; }
+        private String enamn { get; set; }
+        private int jobbid { get; set; }
+        
+
+        public String getFullnamn()
         {
-            Console.WriteLine("gyf419");
-            string x = "test";
-            return x;
-        }
-        public String getName()
-        {
-            Console.WriteLine("Laza");
-            string x = "test";
-            return x;
+            return getFullnamn();
         }
 
-        public string hasSkyddskor()
+        public ArbetsMyror(String name, String efternamn, int id) : base(name, efternamn, id)
         {
-            Console.WriteLine("hjälmm");
-            string x = "hjälm";
-            return x;
+            fnamn = name;
+            enamn = efternamn;
+            jobbid = id;
+           
+        }
+
+
+        public String getName()
+        {
+            return getName();
+        }
+
+     
+        public String getEfternamn()
+        {
+            return getEfternamn();
+        }
+
+        
+        public int getId()
+        {
+            return getId();
+        }
+
+
+
+        //method
+
+ 
+         public String getDescription()
+        {
+            return "Myror";
+        }
+
+       
+        public String getArbetstyp()
+        {
+            return getArbetstyp();
+        }
+
+        
+        public String getArbetare()
+        {
+            return getArbetare();
         }
     }
 }

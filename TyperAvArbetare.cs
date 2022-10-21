@@ -6,7 +6,12 @@ using System.Threading.Tasks;
 
 namespace PersonalRegister_test
 {
-    internal class Lista
+    public class TyperAvArbetare
     {
+        public String getDescription()
+        {
+
+            return " Myror ";
+        }
     }
 }
